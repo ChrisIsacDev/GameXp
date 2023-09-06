@@ -4,4 +4,8 @@
   GameXp</H1>
 <h3> Um projeto da DIO</h3>
 
-<p> Um código simples em Js, baseado em sistemas de Ranks em Jogos</p>
+<p> Um código simples em Js, baseado em sistemas de Xp dos Jogos onlines</p>
+
+<h3>Sobre o projeto:</h3>
+<p>Projeto realizado como uma forme de atividade, durante o bootcamp de formação em lógica de programção
+na plataforma da DIO</p>
