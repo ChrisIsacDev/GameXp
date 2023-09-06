@@ -6,6 +6,8 @@
 
 <p> Um código simples em Js, baseado em sistemas de Xp dos Jogos onlines</p>
 
-<h3>Sobre o projeto:</h3>
-<p>Projeto realizado como uma forme de atividade, durante o bootcamp de formação em lógica de programção
+<h2>Sobre o projeto:</h2>
+<p>Projeto realizado como uma forme de atividade, durante o bootcamp de formação em lógica de programação
 na plataforma da DIO</p>
+
+<p>Bootcamp finalizado durante o mês de setembro</p>
